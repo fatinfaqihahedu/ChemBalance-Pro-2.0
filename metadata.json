@@ -1,0 +1,6 @@
+{
+  "name": "ChemBalance Pro 2.0",
+  "description": "Interactive Cambridge IGCSE Chemistry (0620) ionic formula balancer, reaction explorer, electrostatic lab simulation, and past paper quiz analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
